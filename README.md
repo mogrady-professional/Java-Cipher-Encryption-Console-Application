@@ -1,4 +1,4 @@
-<img src="images/medicine-ball.png" width="75" align="right" alt="Java Logo"></a>
+<img src="images/encryption.png" width="75" align="right" alt="Java Logo"></a>
 
 # Java Cipher Encryption Console Application
 
@@ -26,7 +26,7 @@
 
 # ASCII Table
 
-<p align="center" >
+<p align="center" style="background-color: #fff" >
  <img src="images/ASCII-Table.png"  style="background-color:#fff" height="auto">
 </p>
 
