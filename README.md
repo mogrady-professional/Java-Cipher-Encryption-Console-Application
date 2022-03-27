@@ -32,7 +32,7 @@
 
 # Description
 
-Console Application using a pre-shared key to pair with random secret key to ensure validity of encryption via OTP One Time Pad. Substitutes each character with a random key. ArrayLists used as Data structures for characters.
+Console Application using a pre-shared key to pair with random secret key to ensure secure of encryption substitututing each character with a random key. ArrayLists are used as Data structures for characters.
 The application is wrapped as an executable application (.exe) using Launch4j and ready to go.
 
 # Scope
