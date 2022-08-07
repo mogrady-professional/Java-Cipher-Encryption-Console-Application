@@ -1,6 +1,10 @@
-<img src="images/encryption.png" width="75" align="right" alt="Java Logo"></a>
+<img src="images/encryption.png" width="75" align="right" alt="Java Logo" style="margin-bottom:10px"></a>
 
 # Java Cipher Encryption Console Application
+
+<p align="center" >
+ <img src="images/caesar-cipher.png"  height="auto">
+</p>
 
 # Table of Contents
 
